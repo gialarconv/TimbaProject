@@ -2,7 +2,7 @@
 
 This project was created with OpenGL Glut c++.
 
-The purpose of these repositories is to deliver the appropriate functionalities 
+The purpose of theis repo is to deliver the appropriate functionalities 
 for the correct functioning of the test delivered by timba games, 
 for the application of a video game developer.
 
