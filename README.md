@@ -16,3 +16,4 @@ in which each one of them is in charge of extracting the data to create the shap
 The timba project.cpp class, is in charge of rendering the objects, 
 and it is also in charge of connecting with the glut c ++ library
 
+![Cheat Sheet](Cheatsheet.PNG)
