@@ -11,5 +11,15 @@ was the easiest way to carry out the challenge, it has 4 different classes, wher
 files with their corresponding information, and then inherit them to the .cpp class where I do the necessary 
 functions for the correct operation of the project.
 
+In the header files, you can find 2 methods, the first "readFile", 
+fulfills the function of reading the .txt, then filling a string vector with 
+the information of each line, and then filling a float vector, with the numeric values, 
+substringing each string line.
+
+The second function "render", fulfills the function of rendering the object and also, 
+checking the animation to be shown on the screen.
+
+The .cpp file corresponds to the master class, where it performs all the necessary 
+functions for the correct operation of the application, much of it is documented, so that it is easy to read.
 
 ![Cheat Sheet](Cheatsheet.PNG)
