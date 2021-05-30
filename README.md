@@ -13,7 +13,7 @@ And thatis all.
 
 To open the .exe, you must need to have installed MSVC v142 VS 2019 C++ in your computer.
 
-The purpose of theis repo is to deliver the appropriate functionalities 
+The purpose of this repo is to deliver the appropriate functionalities 
 for the correct functioning of the test delivered by timba games, 
 for the application of a video game developer.
 
