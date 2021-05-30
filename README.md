@@ -2,6 +2,15 @@
 
 This project was created with OpenGL Glut c++.
 
+Installation process:
+
+Go to Tools -> Get Tools and features
+
+Install Desktop development with C++
+Check if Windows 10 SDK (10.0.19041.0) is already installed.
+
+And thatis all.
+
 The purpose of theis repo is to deliver the appropriate functionalities 
 for the correct functioning of the test delivered by timba games, 
 for the application of a video game developer.
