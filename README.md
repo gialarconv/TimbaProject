@@ -11,7 +11,8 @@ Check if Windows 10 SDK (10.0.19041.0) is already installed.
 
 And thatis all.
 
-To open the .exe, you must need to have installed MSVC v142 VS 2019 C++ in your computer.
+To open the .exe, you must need to have installed MSVC VS 2019 C++ in your computer.
+Link: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
 
 The purpose of this repo is to deliver the appropriate functionalities 
 for the correct functioning of the test delivered by timba games, 
