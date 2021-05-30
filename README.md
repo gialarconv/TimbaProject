@@ -2,7 +2,7 @@
 
 This project was created with OpenGL Glut c++.
 
-Installation process:
+Installation process to open project in Visual Studio:
 
 Go to Tools -> Get Tools and features
 
